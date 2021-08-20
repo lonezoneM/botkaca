@@ -1,0 +1,74 @@
+Video : https://www.youtube.com/watch?v=2MYsuq82qLk
+
+Hoi boiss 
+
+today will be showing you how to deploy Leech BOT on heroku
+
+what is a leech bot ?
+
+leech bot allows you to upload contents from internet including torrent to telegram
+
+Things we need
+ 
+TG API 
+TG API HASH 
+get them from https://my.telegram.org/auth (sign in with your account)
+click api development tools create app with any name 
+there you will have tg Api and api hash 
+
+now we need to create bot also '
+@botfather
+bot token 
+
+we can also set commands and DP
+Bot Command
+start - start bot
+pass - enter password that required
+help - this message
+leech - leech link or magnet
+cancel - cancel leeching
+list - list on going leech
+upload_as_doc - toggle upload anything as document
+upload_as_zip - toggle upload anything as bundled zipfile
+set_thumbnail - set custom video thumbail
+reset_thumbnail - reset custom video thumbnail
+set_tracker - set default tracker, sparated by newline
+
+
+
+ALRIGHT OUR WORK WITH BOT IS DONE 
+NOW LETS MAKE LEECH BOT 
+
+
+
+Repo we will be using
+https://github.com/Finitebottutu/botkaca
+
+THIS REPO IS NOT MADE BY ME I JUST EDITED IT TO MAKE IT DEPLOYABLE
+
+ONLY LEECH BOT THAT CAN BE DEPLOYED ON HEROKU OTHERWISE YOU HAVE TO USE VPS
+
+FORK THE REPO AND DO THIS MAKE SURE TO SIGNIN OR SIGNUP ON HEROKU
+
+
+wait for it to be deployed 
+
+dont skip the video or exit 
+we have to edit in HEROKU also 
+for future purposes too 
+
+I HAVE ALREADY CONNECTED MY GITHUB TO SOME OTHER HEROKU ACCOUNT 
+
+BUT YOU NEED TO CONNECT TO GITHUB AND ENABLE AUTOMATIC DEPLOYS 
+AND DEPLOY FROM MASTER BRANCH 
+
+LETS TRY DOWNLOADING SOMETHING
+
+IF YOU WANT TO UPLOAD CONTENT FROM YOUR GDRIVE THEN MAKE USE OF INDEX 
+I WILL GIVE LINK TO TUTORIAL OF HOW TO MAKE INDEX 
+
+THANKU FOR WATCHING 
+
+AND SPECIAL THANKS TO LUCIF3RHUN AND FEDEL ALI FOR HELPING ME OUT PEACE
+
+Credit : Channel owner.
